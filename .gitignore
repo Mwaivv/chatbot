@@ -1,0 +1,8 @@
+# Virtual environment (big folder we don't need on GitHub)
+venv/
+__pycache__/
+*.pyc
+
+# Secret files and database (keeps your keys and local database private)
+.env
+*.db
